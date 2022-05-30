@@ -40,3 +40,11 @@ PORT=4000
 
 ## Despliegue
 De forma paralela ejecutar `npm start` en el directorio `./api` y en el directorio `./frontend`. Siendo más específico, abre dos terminales, ubícate en cada uno de estos directorios y ejecuta el comando.
+
+## Ejecución
+Una vez ya esté funcionando correntamente la aplicación, perdirá un usuario y contraseña. Ya hay un usuario creado para este primer ingreso el cual es:
+```
+usuario: admin
+Contraseña: admin123
+```
+De esta manera podrá ingresar a la aplicación y crear los usuario que desee.
